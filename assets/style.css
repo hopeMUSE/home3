@@ -1,0 +1,17 @@
+.main-article{
+  border: 3px dotted teal;
+  color: crimson;
+  font-size: 32px;
+  text-decoration: wavy underline;
+}
+.main-article-heading{
+  color: initial;
+  border: inherit;
+}
+.main-article-content{
+  font-size: initial;
+}
+.main-article-link{
+  color: inherit;
+  text-decoration: inharit;
+}
